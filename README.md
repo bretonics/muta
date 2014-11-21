@@ -1,4 +1,7 @@
 muta
 ====
 
-Automate BLAST execution while checking deletion fragment presence in your candidate mutant sequence.
+#Mutant Finder
+Automate BLAST execution while checking for deletion of fragment in your candidate mutant (query) sequence.
+
+Looks and reports for gene knockouts on mutant candidate sequence.
